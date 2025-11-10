@@ -1,5 +1,57 @@
 {
-  "book-room": [
-   
+  "book-room": [],
+  "rooms": [
+    {
+      "id": "d84c",
+      "name": "Phong 1 ",
+      "quantityBed": 1,
+      "util": [
+        "Dieu Hoa",
+        "May Nong Lanh"
+      ],
+      "quantityPeople": 3,
+      "description": "Warning: [antd: Dropdown] `dropdownRender` is deprecated. Please use `popupRender` instead.",
+      "status": true
+    },
+    {
+      "id": "f39e",
+      "name": "Phong 2",
+      "quantityBed": 2,
+      "util": [
+        "Dieu Hoa",
+        "May Nong Lanh",
+        "Wifi"
+      ],
+      "quantityPeople": 2,
+      "description": "Warning: [antd: Dropdown] `dropdownRender` is deprecated. Please use `popupRender` instead.",
+      "status": false
+    },
+    {
+      "id": "f6af",
+      "name": "Phong 111",
+      "quantityBed": 3,
+      "util": [
+        "Dieu Hoa",
+        "May Nong Lanh",
+        "Wifi"
+      ],
+      "quantityPeople": 2,
+      "description": "adsfgdrsygtre <Switch checkedChildren=\"开启\" unCheckedChildren=\"关闭\" defaultChecked />",
+      "status": true,
+      "typeRoom": true
+    },
+    {
+      "id": "da59",
+      "name": "Phong 11111",
+      "quantityBed": 2,
+      "util": [
+        "Wifi",
+        "Dieu Hoa",
+        "May Nong Lanh"
+      ],
+      "quantityPeople": 3,
+      "description": " <Switch checkedChildren=\"开启\" unCheckedChildren=\"关闭\" defaultChecked />",
+      "typeRoom": false
+    }
   ]
 }
